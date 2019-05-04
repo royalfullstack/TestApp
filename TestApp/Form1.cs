@@ -15,6 +15,8 @@ namespace TestApp
         public Form1()
         {
             InitializeComponent();
+            string x = string.Empty;
+            
         }
     }
 }
